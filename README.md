@@ -1,2 +1,1 @@
-# aluraplus
-Landing Page do Alura+
+# https://davibenatti.github.io/aluraplus/
